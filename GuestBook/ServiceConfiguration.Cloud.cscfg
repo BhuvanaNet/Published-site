@@ -4,6 +4,7 @@
     <Instances count="1" />
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="DataConnectionString" value="DefaultEndpointsProtocol=https;AccountName=b9portalvhdsrytqhp0csl0w;AccountKey=lxUym1snyqq2rXGsPgFauSUW06VVlMMJDFksXLIYxhw6FUxnIesC+dfQyxFU0hp2rFvwfwrgPg36t9/zOHftWA==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>

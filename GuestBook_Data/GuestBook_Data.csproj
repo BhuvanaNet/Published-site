@@ -77,6 +77,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GuestBookDataContext.cs" />
+    <Compile Include="GuestBookDataSource.cs" />
     <Compile Include="GuestBookEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
